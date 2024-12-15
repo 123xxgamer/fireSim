@@ -6,6 +6,8 @@ This is a step-based simulation of a how a fire would progress through a vegetat
 - space to pause/unpause
 - `r` to reset
 
+To run the program on windows, download the [windows-amd64 folder](https://github.com/123xxgamer/fireSim/tree/main/fireSim/windows-amd64) and run fireSim.exe
+
 
 
 https://github.com/user-attachments/assets/cc1a6ae0-99b6-43cb-b850-d581947c0f49
